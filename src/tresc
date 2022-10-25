@@ -1,0 +1,10 @@
+Zad. 1. [2+1p] Napisać w OCaml i Scala dowolne, działające tak samo, funkcje o podanych poniżej odpowiednio typach OCaml (bez wymuszania typu). Określić działanie funkcji.
+a)	int -> int -> (int * int) list
+b)	float list list -> float -> float list
+c)	int -> int list * int list -> int list * (int * int) * int
+
+Zad. 2. [3p] Napisać w OCaml funkcję o typie int list -> int -> int list wybierającą z zadanej listy elementy podzielne przez zadaną wartość.
+
+Zad. 3. [4p] Napisać w Scala funkcję zamieniającą listę wejściową na listę list złożoną z podlist listy wejściowej definiowanych jako pierwsze n elementów tej listy od n=1 począwszy na n równym długości listy wejściowej skończywszy.
+
+
